@@ -7,7 +7,8 @@
 <p align = "center"> <samp> 🦾 How to reach me <strong>emmanuelthedeveloper@gmail.com</€</samp> </p>
 
 <p align = 'center'>
- <img src = https: //github-readme-stats.vercel.app/api? username = manulangat1 & show_icons = true alt = manulangat1 />
+ <!-- <img src = https: //github-readme-stats.vercel.app/api? username = manulangat1 & show_icons = true alt = manulangat1 /> -->
+ [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=manulangat1)](https://github.com/anuraghazra/github-readme-stats)
 </ P>
 
 
