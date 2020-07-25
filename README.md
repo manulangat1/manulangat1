@@ -1,6 +1,6 @@
 <h2 align = "center" class = "text-purple"> <samp> <strong> Hi 👋, I'm Emmanuel Kipchirchir Langat </strong> </samp> </h2>
 <p align = "center"> <samp> <strong> Full Stack Software Developer. </strong> </samp> </p>
-<p align = "center"> <samp> <img src = https: //komarev.com/ghpvc/? username = manulangat1 alt = manulangat1 /> </samp> </p>
+<p align = "center"> <samp> <img src = https://komarev.com/ghpvc/?username = manulangat1 alt = manulangat1 /> </samp> </p>
 
 <p align = "center"> <samp> 💬 Ask me about <strong> Full Stack Development, Django, React and Javascript </strong> </samp> </p>
 
