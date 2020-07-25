@@ -13,6 +13,6 @@
 
 <p align = "center">
 <a href=https://dev.to/manulangat1 target="_blank"> <img align = "center" src = https: //cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons /dev-dot-to.svg alt = "@ abdiadan" height = "30" width = "30" /> </a>
-<a href=https://twitter.com/LangatIts target="_blank"> <img align = "center" src = https: //cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons /twitter.svg alt = "@ LangatIts" height = "20" width = "20" /> </a>
+<a href=https://twitter.com/LangatIts target="_blank"> <img align = "center" src = https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/dev-dot-to.svg alt = "@ LangatIts" height = "20" width = "20" /> </a>
 <a href=https://www.linkedin.com/in/emmanuel-langat-7b547a158/ target="_blank"> <img align = "center" src = https: //cdn.jsdelivr.net/npm/simple-icons@ 3.0.1 / icons / linkedin.svg alt = "emmanuel-langat-7b547a158" height = "20" width = "20" /> </a>
 </ P>
