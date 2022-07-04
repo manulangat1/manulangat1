@@ -3,8 +3,7 @@
 <p align = "center"> <samp> <img src = https://komarev.com/ghpvc/?username=manulangat1 alt = manulangat1 /> </samp> </p>
 
 <p align = "center"> <samp> 💬 Ask me about <strong> Full Stack Development, Django, React and Javascript </strong> </samp> </p>
-<p align = "center"> Read my articles on hashnode.
-[blog](https://blog.kipchirchirlangat.com/) </p>
+<p align = "center"> Read my articles on hashnode. <a href="https://blog.kipchirchirlangat.com/" target="_blank"> blog </a></p>
 <p align = "center"> <samp> 🦾 How to reach me <strong>emmanuelthedeveloper@gmail.com</€</samp> </p>
 
 <p align = 'center'>
